@@ -1,0 +1,20 @@
+<style>
+#header {height:400px;background-image:url("maxresdefault.jpg");background-repeat:no-repeat;background-size:cover;padding:1em}
+#nav{float:left; width:18%; height:400px; background-color:#e6f7ff}
+ul {list-style-type:none;}
+li {font-size:20px; line-height: 1.8}
+#article {float:right; width:78%; height:400px}
+#footer {clear:both;height:50px;text-align:center;background-color:#b3e7ff}
+<meta charset="UTF-8">
+</style>
+<body>
+<div id="header"><h1>履歷表</h1></div>
+<div id="nav"><ul>
+<li><a href="http://www.nttu.edu.tw/bin/home.php">台東大學</a></li>
+<li><a href="https://lalala721.weebly.com/">左萱 ZuoHsuan</a></li>
+</ul></div>
+<div id="article"><h1>林郁倫</h1><p>Content for home</p></div>
+
+
+<div id="footer"><h1>Footer</h1></div>
+</body>
